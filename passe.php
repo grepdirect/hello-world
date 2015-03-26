@@ -1,6 +1,6 @@
-<php 
-$passe = "passegay"
+<?php 
+$passe = "\n passegay \n";
 
-echo $passe
+echo $passe;
 
 ?>
